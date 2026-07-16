@@ -333,6 +333,7 @@ service cloud.firestore {
 ## 👤 Autor
 
 **Daryna Pasiura**
+
 Projekt: Praca dyplomowa — Kierunek Informatyka, Uniwersytet Vizja, Warszawa 2026
 
 ---
