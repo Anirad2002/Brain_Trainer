@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "brain-trainer",
+    "slug": "brain-trainer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/free-icon-brain-training.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "backgroundColor": "#F2F2F7"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F2F2F7",
+        "foregroundImage": "./assets/images/free-icon-brain-training.png",
+        "backgroundImage": "./assets/images/free-icon-brain-training.png",
+        "monochromeImage": "./assets/images/free-icon-brain-training.png"
+      },
+      "package": "com.anonymous.braintrainer"
+    },
+    "web": {
+      "favicon": "./assets/images/icon-brain-training-16.png"
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ]
+  }
+}
